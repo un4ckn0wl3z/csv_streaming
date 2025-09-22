@@ -1,0 +1,16 @@
+{
+  "name": "csv_streaming",
+  "version": "1.0.0",
+  "main": "server-split.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "yazl": "^3.3.1"
+  }
+}
